@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raushan Kumar
 - 👀 I’m interested in to do coding and making projecs
-- 🌱 I’m currently learning java , spring boot , c#
+- 🌱 I’m currently learning golang ,java, spring boot , c#
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
